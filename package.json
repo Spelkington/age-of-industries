@@ -1,0 +1,28 @@
+{
+  "devDependencies": {
+    "typescript": "^4.8.4",
+    "typescript-to-lua": "^1.10.1"
+  },
+  "name": "age-of-industry",
+  "version": "0.0.1",
+  "description": "Factorio scenario for a multiplayer Age of Empires-style experience",
+  "main": "index.js",
+  "author": "Spencer Elkington <spelkington@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "lua-types": "^2.13.0",
+    "typed-factorio": "^1.10.0"
+  },
+  "scripts": {
+    "dev": "tstl -w",
+    "build": "bash ./build.sh"
+  },
+  "factorioSettings": {
+    "factorio_version": "1.1",
+    "title": "Age of Industry",
+    "homepage": "",
+    "dependencies": [
+      "base >= 1.1"
+    ]
+  }
+}

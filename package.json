@@ -14,13 +14,14 @@
     "typed-factorio": "^1.10.0"
   },
   "scripts": {
-    "dev": "tstl -w",
-    "build": "bash ./scripts/build.sh"
+    "watch": "tstl -w",
+    "build": "bash ./scripts/build.sh",
+    "test": "bash ./scripts/test.sh"
   },
   "factorioSettings": {
     "factorio_version": "1.1",
     "title": "Age of Industry",
-    "homepage": "",
+    "homepage": "https://github.com/Spelkington/age-of-industry",
     "dependencies": [
       "base >= 1.1"
     ]

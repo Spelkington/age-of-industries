@@ -1,3 +1,3 @@
 script.on_init(() => {
-    log("From Age of Industry: Hello, World!")
+    log("[Age of Industry] Hello, World!")
 })

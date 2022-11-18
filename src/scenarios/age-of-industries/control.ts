@@ -1,11 +1,10 @@
 // Set globals for control program
-import {AOILogger} from "lib/objects/AOILogger";
 
 declare namespace global {
 };
 
 script.on_init(() => {
-    print("[Age of Industries] Age of Industries Scenario Started!")
+    print("Scenario Started!")
 });
 
 script.on_event(

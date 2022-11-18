@@ -1,7 +1,7 @@
-----------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------
 Version: 0.0.0
 Date: 11. 14. 2022
   Changes:
-    - Initialized starter project for Age of Industry!
+    - Initialized starter project for Age of Industries!
   Bugfixes:
     - Fixed non-existence of mod.

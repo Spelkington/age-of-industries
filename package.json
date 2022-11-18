@@ -3,7 +3,7 @@
     "typescript": "^4.8.4",
     "typescript-to-lua": "^1.10.1"
   },
-  "name": "age-of-industry",
+  "name": "age-of-industries",
   "version": "0.0.1",
   "description": "Factorio scenario for a multiplayer Age of Empires-style experience",
   "main": "index.js",
@@ -20,8 +20,8 @@
   },
   "factorioSettings": {
     "factorio_version": "1.1",
-    "title": "Age of Industry",
-    "homepage": "https://github.com/Spelkington/age-of-industry",
+    "title": "Age of Industries",
+    "homepage": "https://github.com/Spelkington/age-of-industries",
     "dependencies": [
       "base >= 1.1"
     ]
